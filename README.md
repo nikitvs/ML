@@ -10,4 +10,5 @@ ____
 ____
 
 ## Выполненные работы
-1. [lesson1_practice_pandas_titanic](https://github.com/Sernikvik/mlcourse.ai/blob/master/jupyter_russian/topic01_pandas_data_analysis/lesson1_practice_pandas_titanic.ipynb)
+1. [lesson1_practice_pandas_titanic](https://github.com/nikitvs/mlcourse.ai/blob/master/jupyter_russian/topic01_pandas_data_analysis/lesson1_practice_pandas_titanic.ipynb)
+2. [Градиентный спуск с визуализацией](https://github.com/nikitvs/ML/grad_descent_with_visual.ipynb)
