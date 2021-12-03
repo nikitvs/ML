@@ -19,3 +19,4 @@ ____
 
 ### Оптимизация
 4. [Градиентный спуск с визуализацией](https://github.com/nikitvs/ML/blob/main/grad_descent_with_visual.ipynb)
+5. [Стохастический градиентный спуск](https://github.com/nikitvs/ML/blob/main/stochastic_grad_descent.ipynb)
