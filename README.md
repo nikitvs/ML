@@ -19,4 +19,6 @@ ____
 
 ### Оптимизация
 5. [Градиентный спуск с визуализацией](https://github.com/nikitvs/ML/blob/main/grad_descent_with_visual.ipynb)
-6. [Стохастический градиентный спуск](https://github.com/nikitvs/ML/blob/main/stochastic_grad_descent.ipynb)
+6. [Моментный метод](https://github.com/nikitvs/ML/blob/main/moment_method.ipynb)
+7. [Переменный шаг и адаптивный метод](https://github.com/nikitvs/ML/blob/main/learning_rate_change__adaptive_method.ipynb)
+8. [Оптимизация с Pygmo](https://github.com/nikitvs/ML/blob/main/pygmo.ipynb)
