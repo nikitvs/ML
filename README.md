@@ -29,3 +29,4 @@ ____
 
 ### Доп. активности
 11. [Сгенерированное изображение](https://github.com/nikitvs/ML/blob/main/image.jpg)
+12. [Дипфейк](https://github.com/nikitvs/ML/blob/main/deepfake.mp4)
